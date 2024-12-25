@@ -14,6 +14,7 @@ ModComponent , CraftingRevisions
 English
 ## Known issues
 1. some items will sink slightly into the surface upon dropping/placing.
+2. canned food have wrong crafting audio 
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
 2. move "CanningYourMeat.modcomponent" to your mods folder located in "C:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods" or wherever you have installed 'the long dark".
