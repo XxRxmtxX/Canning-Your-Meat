@@ -1,0 +1,30 @@
+--Bug fixes
+fixed some items sinking slightly into the surface upon dropping/placing.
+fixed canned food/minced meat having wrong crafting audio.
+
+--New
+updated texture for Canned meat and minced meat
+
+--Balancing Items
+item weight changes:
+CannedBearMeat : (1.0kg) --> (1.95kg)
+CannedMooseMeat : (1.0kg) --> (1.95kg)
+CannedCougarMeat : (1.0kg) --> (1.95kg)
+CannedPtarmiganMeat : (1.0kg) --> (1.95kg)
+CannedRabbitMeat : (1.0kg) --> (1.95kg)
+CannedVenison : (1.0kg) --> (1.95kg)
+CannedWolfMeat : (1.0kg) --> (1.95kg)
+
+item calorie changes:
+CannedBearMeat : (1020Cal) --> (1780Cal)
+CannedMooseMeat : (1120Cal) --> (1780Cal)
+CannedCougarMeat : (720Cal) --> (1730Cal)
+CannedPtarmiganMeat : (720Cal) --> (1380Cal)
+CannedRabbitMeat : (1120Cal) --> (1380Cal)
+CannedVenison : (970Cal) --> (1680Cal)
+CannedWolfMeat : (1020Cal) --> (1680Cal)
+
+--Balancing blueprints
+Required "Cooking Oil" to craft "Minced-XXX-Meat" : (0.2L) --> (0.1L)
+Crafting "Minced-XXX-Meat" no longer uses "Cooking" skill as "Applied Skill".
+Crafting duration for all "Minced-XXX-Meat" blueprints : (10min) --> (15min)
