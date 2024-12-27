@@ -3,7 +3,7 @@ This mod was created by Lich and with the guidance of the modding community. Thi
 
 <img src="https://github.com/user-attachments/assets/8881ec84-e6ba-4a31-ba73-ff8274e34cc8" width="45%"></img> <img src="https://github.com/user-attachments/assets/7849cf7c-8e41-4ac1-a965-cab25b3bf59c" width="45%"></img> 
 
-there are 7 new blueprints for creating minced/prepared meat and 7 blueprints to can this minced/prepared meats for a long lasting (360days out door and 270days indoor) food source.
+There are 7 new blueprints for creating minced/prepared meat and 7 blueprints to can this minced/prepared meats for a long lasting (360days out door and 270days indoor) food source.
 
 ## Blueprints
 ![screen_00002](https://github.com/user-attachments/assets/1c03afc6-3bb5-4c60-8f5a-125fa7a0d32e)
@@ -14,6 +14,7 @@ ModComponent , CraftingRevisions
 English
 ## Known issues
 1. canned food made by predator meat won't give parasite risk.
+2. canned food won't return recycled cans after consumption.
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
 2. move "CanningYourMeat.modcomponent" to your mods folder located in "C:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods" or wherever you have installed 'the long dark".
