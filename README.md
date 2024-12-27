@@ -6,7 +6,7 @@ This mod was created by Lich and with the guidance of the modding community. Thi
 There are 7 new blueprints for creating minced/prepared meat and 7 blueprints to can this minced/prepared meats for a long lasting (360days out door and 270days indoor) food source.
 
 ## Blueprints
-![screen_00002](https://github.com/user-attachments/assets/1c03afc6-3bb5-4c60-8f5a-125fa7a0d32e)
+![screen_00002](https://github.com/user-attachments/assets/e8a12f30-16b7-446c-b60a-b5824f309038)
 
 ## Dependencies
 ModComponent , CraftingRevisions
