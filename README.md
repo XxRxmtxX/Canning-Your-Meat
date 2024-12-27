@@ -1,20 +1,20 @@
 # Canning-Your-Meat
 This mod was created by Lich and with the guidance of the modding community. This is a food mod for "The Long Dark".
 
-![screen_00001](https://github.com/user-attachments/assets/f4e2586a-c6ce-4693-963a-438bcace1db1)
+<img src="https://github.com/user-attachments/assets/8881ec84-e6ba-4a31-ba73-ff8274e34cc8" width="45%"></img> <img src="https://github.com/user-attachments/assets/7849cf7c-8e41-4ac1-a965-cab25b3bf59c" width="45%"></img> 
 
 there are 7 new blueprints for creating minced/prepared meat and 7 blueprints to can this minced/prepared meats for a long lasting (360days out door and 270days indoor) food source.
 
 ## Blueprints
-![screen_00002](https://github.com/user-attachments/assets/9655ab41-4fe1-4cf7-b1bb-867465d7413d)
+![screen_00002](https://github.com/user-attachments/assets/1c03afc6-3bb5-4c60-8f5a-125fa7a0d32e)
 
 ## Dependencies
 ModComponent , CraftingRevisions
 ## Localization
 English
 ## Known issues
-1. some items will sink slightly into the surface upon dropping/placing.
-2. canned food/minced meat have wrong crafting audio.
+1. ~~some items will sink slightly into the surface upon dropping/placing.~~ (fixed)
+2. ~~canned food/minced meat have wrong crafting audio.~~ (fixed)
 3. canned food made by predator meat won't give parasite risk.
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
