@@ -13,8 +13,7 @@ ModComponent , CraftingRevisions
 ## Localization
 English
 ## Known issues
-1. canned food made by predator meat won't give parasite risk.
-2. canned food won't return recycled cans after consumption.
+*No problems found so far.*
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
 2. move "CanningYourMeat.modcomponent" to your mods folder located in "C:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods" or wherever you have installed 'the long dark".
