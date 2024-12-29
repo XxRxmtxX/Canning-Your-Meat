@@ -11,8 +11,7 @@ There are 7 new blueprints for creating minced/prepared meat and 7 blueprints to
 ## Dependencies
 ModComponent , CraftingRevisions
 ## Localization
-English
-Russian 
+English , Russian 
 ## Known issues
 *No problems found so far.*
 ## Installation
