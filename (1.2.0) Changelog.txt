@@ -1,0 +1,15 @@
+--Bug fixes
+fixed quality tools not being used as requierd tools for crafting minced meat.
+fixed canned food not returning recycled cans after consumption.
+fixed canned predator meat not giving parasite risk after consumption.
+fixed canned wolf meat not having correct description.
+--New
+inventory/crafting item icons now updated and represent items.
+added Russian localization.
+--Balancing Items
+cannedXXXmeat now require tools or hand to smash open.
+--Suggestion Implemented
+item decay changes:
+cannedXXXmeat now decay as same rate as hammed can (vanila canned item).
+Days To Decay Outdoors : 750
+Days To Decay Indoors : 150
