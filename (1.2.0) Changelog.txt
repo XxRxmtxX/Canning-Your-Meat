@@ -1,5 +1,5 @@
 --Bug fixes
-fixed quality tools not being used as requierd tools for crafting minced meat.
+fixed quality tools not being used as requierd tools for crafting cannedXXXmeat.
 fixed canned food not returning recycled cans after consumption.
 fixed canned predator meat not giving parasite risk after consumption.
 fixed canned wolf meat not having correct description.
