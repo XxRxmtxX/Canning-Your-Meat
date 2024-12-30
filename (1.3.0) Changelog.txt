@@ -1,0 +1,20 @@
+# New
+
+## New Blueprints
+1. Added blueprints for canning AnimalFat
+2. Added blueprints for canning Burbot fish.
+3. Added blueprints for canning CohoSalmon fish.
+4. Added blueprints for canning Goldeye fish.
+5. Added blueprints for canning LakeWhiteFish fish.
+6. Added blueprints for canning RainbowTrout fish.
+7. Added blueprints for canning RedIrishLord fish.
+8. Added blueprints for canning RockFish fish.
+9. Added blueprints for canning SmallMouthBass fish.
+10. Added blueprints for preparing Burbot fish.
+11. Added blueprints for preparing CohoSalmon fish.
+12. Added blueprints for preparing Goldeye fish.
+13. Added blueprints for preparing LakeWhiteFish fish.
+14. Added blueprints for preparing RainbowTrout fish.
+15. Added blueprints for preparing RedIrishLord fish.
+16. Added blueprints for preparing RockFish fish.
+17. Added blueprints for preparing SmallMouthBass fish.
