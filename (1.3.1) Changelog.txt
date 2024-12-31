@@ -1,0 +1,4 @@
+# Bug fixes
+canned fish now have correct Vitamin C.
+# New
+updated russian localization.
