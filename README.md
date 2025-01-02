@@ -21,4 +21,4 @@ English , Russian
 ## Thanks
 many thanks to the modding community on discord for helping with creating this mod
 ## Attention
-- ***users are not allowd to Modifiy or Redistribut the content of files provied in this repository in anyway***
+- ***users are not allowd to Modifiy to Redistribut the content of files provied in this repository in anyway***
