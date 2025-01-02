@@ -20,3 +20,5 @@ English , Russian
 2. move "CanningYourMeat.modcomponent" to your mods folder located in "C:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods" or wherever you have installed 'the long dark".
 ## Thanks
 many thanks to the modding community on discord for helping with creating this mod
+## Attention
+- ***users are not allowd to Modifiy or Redistribut the content of files provied in this repository in anyway***
