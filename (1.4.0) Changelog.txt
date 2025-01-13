@@ -1,0 +1,4 @@
+# New
+- all items now have new models with higher quality.
+- change item rarities.
+- all blueprints now have simpler name format.
