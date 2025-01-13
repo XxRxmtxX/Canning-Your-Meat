@@ -1,7 +1,8 @@
 # Canning-Your-Meat
 This mod was created by Lich and with the guidance of the modding community. This is a food mod for "The Long Dark".
 
-![screen_00004](https://github.com/user-attachments/assets/2a7e71b1-3049-40f0-994a-e776d591bce5)
+![screen_00005](https://github.com/user-attachments/assets/7aa94215-edfb-4c1e-adaa-3a88fcf2dbbc)
+
 
 There are new blueprints for creating minced/prepared meat and blueprints to can this minced/prepared meats for a long lasting food source.
 
