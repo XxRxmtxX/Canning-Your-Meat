@@ -8,7 +8,8 @@ There are new blueprints for creating minced/prepared meat and blueprints to can
 
 ## Blueprints
 
-![screen_00002](https://github.com/user-attachments/assets/8bfcb3c9-f603-45b9-a935-f04d8508a6fe)
+![screen_00002](https://github.com/user-attachments/assets/c0ec4985-e36d-40c0-b729-63a72ded0b58)
+
 
 ## Dependencies
 ModComponent , CraftingRevisions
