@@ -7,8 +7,7 @@ This mod was created by Lich and with the guidance of the modding community. Thi
 There are new blueprints for creating minced/prepared meat and blueprints to can this minced/prepared meats for a long lasting food source.
 
 ## Blueprints
-
-![screen_00002](https://github.com/user-attachments/assets/c0ec4985-e36d-40c0-b729-63a72ded0b58)
+![screen_00002](https://github.com/user-attachments/assets/69731a80-56a4-4bcd-b263-fa9452019722)
 
 
 ## Dependencies
